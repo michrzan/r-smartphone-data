@@ -10,5 +10,5 @@ run_analysis.R does the following.
 *Appropriately labels the data set with descriptive variable names.
 *From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Additional info on the features in the file features_info.txt
-List of variables used available in the file features.txt
+Additional info on the features ("code book") in the file **features_info.txt**
+List of variables used available in the file **features.txt**
